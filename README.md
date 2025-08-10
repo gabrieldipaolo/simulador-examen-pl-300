@@ -24,9 +24,6 @@ PL-300 Microsoft Power BI Data Analyst Exam Simulator
 - **Interfaz moderna** inspirada en el examen real
 - **Sin instalación** - funciona directamente en el navegador
 
-## 🎯 Demo en Vivo
-
-**[Prueba el simulador aquí](URL_DEL_SIMULADOR)**
 
 ## 📚 Temas Cubiertos
 
@@ -69,7 +66,7 @@ PL-300 Microsoft Power BI Data Analyst Exam Simulator
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/simulador-pl300.git
+   git clone https://github.com/gabrieldipaolo/simulador-examen-pl-300.git
    ```
 
 2. Navega al directorio:
@@ -85,31 +82,11 @@ PL-300 Microsoft Power BI Data Analyst Exam Simulator
 - JavaScript habilitado
 - Conexión a internet (para enlaces a documentación)
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una branch para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la branch (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 📞 Contacto
 
-- **Autor**: [Tu Nombre]
-- **Email**: tu.email@ejemplo.com
-- **LinkedIn**: [Tu perfil de LinkedIn]
-
-## ⭐ Agradecimientos
-
-- Microsoft por la documentación oficial de Power BI
-- Comunidad de Power BI por el feedback y sugerencias
-- Contribuidores del proyecto
+- **Autor**: [Gabriel DI Paolo]
+- **Email**: gdipaolo59@gmail.com
+- **LinkedIn**: [https://es.linkedin.com/in/gabriel-di-paolo-92966b58]
 
 ---
 
