@@ -7,6 +7,8 @@ PL-300 Microsoft Power BI Data Analyst Exam Simulator
 
 **Simulador completo del examen PL-300 Microsoft Power BI Data Analyst con 101 preguntas de práctica, explicaciones detalladas y enlaces a documentación oficial.**
 
+Lo he creado en un solo archivo html para qu esea facíl de ejecutar, simplemente clona el repositorio o descargalo que constantemente l eagrego preguntas, ya son 101 ;) 
+
 ## 🚀 Características Principales
 
 - **101 preguntas oficiales** del examen PL-300
